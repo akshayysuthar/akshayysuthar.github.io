@@ -71,39 +71,45 @@ export const gridItems = [
   },
 ];
 
-
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "AI-Powered SEO Optimization Platform",
+    des: "An advanced AI-powered SEO platform built using Next.js, Supabase, Tailwind CSS, Framer Motion, and Shacdn, designed to elevate website visibility effortlessly. This project merges intelligent automation with user-friendly tools, providing businesses with seamless access to top-tier SEO strategies powered by AI. From optimized keyword targeting to real-time analytics, this platform streamlines SEO management to drive organic growth and boost online presence. Explore a new era of smart, intuitive, and impactful SEO.",
+    img: "/ai-seo.png",
+    iconLists: ["/re.svg", "/tail.svg", "/next.svg", "/fm.svg"],
+    link: "https://ai-seo-landing-page-seven.vercel.app/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Anime Infinite Scroll: Dynamic API-Powered Experience with Next.js",
+    des: "An immersive anime browsing experience featuring infinite scroll, powered by server actions in Next.js, and enhanced with Tailwind CSS and Framer Motion. This project leverages seamless API integration to provide users with a continuous and visually engaging feed of anime content.",
+    img: "/anime-infinte-scroll.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/nextauth.png"],
+    link: "https://anime-infinte-scroll.vercel.app/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title:
+      "Smart Invoice Manager: Next.js Powered Solution for Modern Businesses",
+    des: "A streamlined invoice management app crafted with Next.js, Supabase, NextAuth, Tailwind CSS, and Framer Motion. This application provides a secure, efficient, and user-friendly experience for creating, tracking, and managing invoices, ideal for businesses looking to automate their billing process.",
+    img: "/invoice-app.png",
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/next.svg",
+      "/ts.svg",
+      "/nextauth.png",
+    ],
+    link: "https://invoice-app-pearl-alpha.vercel.app/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "Real-Time Chat App: Secure and Interactive Messaging with Next.js",
+    des: "A dynamic chat application built with Next.js, Supabase, NextAuth, Tailwind CSS, and Framer Motion, offering secure, real-time messaging. Designed with a focus on modern aesthetics and fluid animations, this app delivers an engaging and seamless chat experience.",
+    img: "/best-chatting.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://best-chatting-app.vercel.app/",
   },
 ];
 
